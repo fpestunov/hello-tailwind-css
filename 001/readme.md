@@ -25,3 +25,7 @@ Our landing page will be divided into the following:
 ## Step 2. Building the navbar
 
 ## Step 3. Building the hero section
+
+## Step 4. Building the features section
+
+## Step 5. Building the testimonials section
