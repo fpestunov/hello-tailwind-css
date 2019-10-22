@@ -18,19 +18,5 @@ Our landing page will be divided into the following:
 
 ## Step 1. Add `index.html`
 
+## Step 2. Building the navbar
 
-```html
-<!-- index.html -->
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Smart Health Monitoring Wristwatch</title>
-  <link rel="stylesheet" href="https://unpkg.com/tailwindcss/dist/tailwind.min.css" />
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700" rel="stylesheet" />
-</head>
-<body class="text-gray-700 bg-white" style="font-family: 'Source Sans Pro', sans-serif">
-
-</body>
-</html>
-```
