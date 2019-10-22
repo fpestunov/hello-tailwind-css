@@ -2,6 +2,10 @@
 
 https://scotch.io/tutorials/build-a-beautiful-landing-page-with-tailwind-css
 
+- использую `lite-server`
+- emmet
+- <kbd>CTRL + SHIFT + A</kbd>, <kbd>CTRL + L</kbd>
+
 ## What we'll be building
 
 In this tutorial, we’ll be building a simple but yet beautiful landing page to showcase a health monitoring smart wristwatch (HMSW) product to our customers.
@@ -20,3 +24,4 @@ Our landing page will be divided into the following:
 
 ## Step 2. Building the navbar
 
+## Step 3. Building the hero section
