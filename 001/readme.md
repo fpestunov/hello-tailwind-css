@@ -29,3 +29,5 @@ Our landing page will be divided into the following:
 ## Step 4. Building the features section
 
 ## Step 5. Building the testimonials section
+
+## Step 6. Building footer section

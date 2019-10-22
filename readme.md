@@ -9,3 +9,7 @@ What is Tailwind?
 Labs:
 
 - [Lab #1. Health monitoring smart wristwatch (HMSW)](001/readme.md)
+
+После первой лабы:
+- можно взять другие шаблоны и повторить;
+- делать примеры Адама Уоттена;
