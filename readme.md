@@ -8,10 +8,13 @@ What is Tailwind?
 
 Labs:
 
-- [Lab #1. Health monitoring smart wristwatch (HMSW)](001/readme.md)
+- [Lab #1. Health monitoring smart wristwatch (HMSW)](001/)
 
 После первой лабы:
 - можно взять другие шаблоны и повторить;
 - делать примеры Адама Уоттена https://tailwindcss.com/screencasts/;
 
-- [Lab #2. Welcome card](002/readme.md)
+- [Lab #2. Welcome card](002/)
+
+- [Lab #3. Setting up Tailwind and PostCSS](003/)
+Learn how to install Tailwind and get it compiling in a simple HTML project.
