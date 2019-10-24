@@ -13,3 +13,5 @@ Labs:
 После первой лабы:
 - можно взять другие шаблоны и повторить;
 - делать примеры Адама Уоттена https://tailwindcss.com/screencasts/;
+
+- [Lab #2. Welcome card](002/readme.md)
