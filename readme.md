@@ -18,3 +18,6 @@ Labs:
 
 - [Lab #3. Setting up Tailwind and PostCSS](003/)
 Learn how to install Tailwind and get it compiling in a simple HTML project.
+
+- [Lab #4. Utility first](004/)
+- 
