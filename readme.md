@@ -6,6 +6,9 @@ What is Tailwind?
 - utility-first CSS framework
 - it doesn't have a default theme, and there are no built-in UI components
 
+Troubles:
+- doesn't work TW plugin in editor
+
 Labs:
 
 - [Lab #1. Health monitoring smart wristwatch (HMSW)](001/)
@@ -20,4 +23,5 @@ Labs:
 Learn how to install Tailwind and get it compiling in a simple HTML project.
 
 - [Lab #4. Utility first](004/)
+- [Lab #5. Utility first #2](005/)
 - 
