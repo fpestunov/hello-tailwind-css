@@ -9,9 +9,11 @@
       <div class="mt-1">
         {{ property.formattedPrice }} <span class="text-gray-600 text-sm">/ wk</span>
       </div>
-      <div class="mt-4">
-        <span class="text-teal-600 font-semibold">{{ property.rating }}/5 stars</span>
-        <span class="text-gray-600 text-sm"> (based on {{ property.reviewCount }} reviews)</span>
+      <div class="mt-2 flex items-center">
+        <svg v-for="i in 5" :key="i" :class="i <= property.rating ? 'text-teal-500' : 'text-gray-400'" class="h-4 w-4 mr-1 fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M12 4.435C10.011-.964 0-.162 0 8.003 0 12.071 3.06 17.484 12 23c8.94-5.516 12-10.929 12-14.997C24-.115 14-.996 12 4.435z"/>
+        </svg>
+        <span class="ml-2 text-gray-600 text-sm">{{ property.reviewCount }} reviews</span>
       </div>
     </div>
   </div>
@@ -22,3 +24,4 @@ export default {
   props: ['property'],
 }
 </script>
+

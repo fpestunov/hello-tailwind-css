@@ -11,6 +11,20 @@ Learn how to use Tailwind's utility classes to structure a basic card component.
 Начинаем:
 - делаем структуру для `PropertyCard`;
 - добавляем классы оформления;
+
+## Making Text Content Feel Designed
+
 - если малозаметный текст вынести за другой, то это выглядет аккуратнее!
 - а если заголовок будет длиннее? надо добавить Марджины и обрезать лишнее `truncate`;
 
+## Working with SVG Icons
+
+Learn how to incorporate and style SVG icons in a Tailwind project.
+
+Как использовать?
+https://tailwindcss.com/resources#icons
+
+Оптимизация СВГ:
+https://jakearchibald.github.io/svgomg/
+
+- берем иконку, оптимизируем и вставляем в наш код;
