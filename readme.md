@@ -19,9 +19,14 @@ Labs:
 
 - [Lab #2. Welcome card](002/)
 
+## 2. GETTING UP AND RUNNING
+
 - [Lab #3. Setting up Tailwind and PostCSS](003/)
 Learn how to install Tailwind and get it compiling in a simple HTML project.
 
 - [Lab #4. Utility first](004/)
 - [Lab #5. Utility first #2](005/)
+
+## 3. DESIGNING AN IMAGE CARD
+- [Lab #12. Structuring a Basic Card](012/)
 - 
