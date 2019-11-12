@@ -48,3 +48,14 @@ object-cover
 Почему реализация через див предпочтительнее?
 
 Нет, он сказал делать через тэг ИМГ, т.к. это доступнее для пользователей.
+
+## Locking Images to a Fixed Aspect Ratio
+Learn how to ensure an image is always displayed at a particular aspect ratio.
+
+Но если увеличивать размер, то фото будет расползаться.
+
+## Creating Depth with Shadows and Layers
+Learn how to add depth to a design by adding shadows and overlapping elements.
+
+Сделаем привлекательной.
+
