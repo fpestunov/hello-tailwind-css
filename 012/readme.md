@@ -33,3 +33,18 @@ https://jakearchibald.github.io/svgomg/
 
 ## Designing a Badge
 Learn how to build and style a simple badge component.
+
+## Cropping and Positioning Images
+Learn how to fit an image into a specific size without distorting it.
+
+```
+img class="..."
+object-left
+object-right
+object-top
+object-cover
+```
+
+Почему реализация через див предпочтительнее?
+
+Нет, он сказал делать через тэг ИМГ, т.к. это доступнее для пользователей.

@@ -1,6 +1,7 @@
 <template>
   <div class="bg-white rounded-lg overflow-hidden">
-    <img :src="property.imageUrl" :alt="property.imageAlt">
+    <!-- <div class="h-48 bg-cover bg-center" :style="{ backgroundImage: `url('${property.imageUrl}')` }"></div> -->
+    <img class="h-48 w-full object-cover" :src="property.imageUrl" :alt="property.imageAlt">
     <div class="p-6">
       <div class="flex items-baseline">
         <span class="bg-teal-500 text-white text-xs px-2 inline-block rounded-full uppercase font-semibold tracking-wide">New</span>
