@@ -28,3 +28,8 @@ https://tailwindcss.com/resources#icons
 https://jakearchibald.github.io/svgomg/
 
 - берем иконку, оптимизируем и вставляем в наш код;
+- убираем у СВГ размеры, тк будем управлять ими через класс;
+- добавляем вывод в цикле и делаем через флекс;
+
+## Designing a Badge
+Learn how to build and style a simple badge component.
